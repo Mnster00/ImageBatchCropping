@@ -4,8 +4,11 @@ Batch Image Cropper is a user-friendly Windows application that allows you to ea
 
 Image Cropper 是一款用户友好的 Windows 应用程序，可让你轻松地从同一位置裁剪多张图片到指定大小。该工具非常适合批量处理，通过对文件夹中的每张图片应用相同的裁剪区域，确保所有图片的一致性。
 
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="[image.jpg](https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png)" style="max-width: 80%;">
+</div>
 
-<img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png" alt="Image Cropper Overview" width="600"/>
+
 
 ## Key Features
 
@@ -33,11 +36,21 @@ Image Cropper 是一款用户友好的 Windows 应用程序，可让你轻松地
 5. Click the "Crop Images" button to process all images in the selected folder.
 
 
-<img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png" width="400"/>
-<img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/3.png" width="400"/>
-<img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/4.png" width="400"/>
-<img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/5.png" width="400"/>
-<img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/6.png" width="400"/>
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="[image.jpg](https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png)" style="max-width: 80%;">
+</div>
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="[image.jpg](https://github.com/Mnster00/ImageBatchCropping/blob/main/3.png)" style="max-width: 80%;">
+</div>
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="[image.jpg](https://github.com/Mnster00/ImageBatchCropping/blob/main/4.png)" style="max-width: 80%;">
+</div>
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="[image.jpg](https://github.com/Mnster00/ImageBatchCropping/blob/main/5.png)" style="max-width: 80%;">
+</div>
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="[image.jpg](https://github.com/Mnster00/ImageBatchCropping/blob/main/6.png)" style="max-width: 80%;">
+</div>
 
 
 **Important**: The crop area you define will be applied to all images in the folder. Make sure your images have similar layouts for best results.
