@@ -37,19 +37,19 @@ Image Cropper 是一款用户友好的 Windows 应用程序，可让你轻松地
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png" style="max-width: 80%;">
+  <img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png" style="max-width: 60%;">
 </div>
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/3.png" style="max-width: 80%;">
+  <img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/3.png" style="max-width: 60%;">
 </div>
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/4.png" style="max-width: 80%;">
+  <img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/4.png" style="max-width: 60%;">
 </div>
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/5.png" style="max-width: 80%;">
+  <img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/5.png" style="max-width: 60%;">
 </div>
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/6.png" style="max-width: 80%;">
+  <img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/6.png" style="max-width: 60%;">
 </div>
 
 
