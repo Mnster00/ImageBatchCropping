@@ -2,7 +2,7 @@
 
 Image Cropper is a user-friendly Windows application that allows you to easily crop multiple images to a specified size from the same position. This tool is perfect for batch processing, ensuring consistency across all your images by applying the same crop area to every picture in a folder.
 
-![Image Cropper Overview](https://github.com/Mnster00/ImageBatchCropping/blob/main/1.png)
+![Image Cropper Overview](https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png)
 
 ## Key Features
 
