@@ -2,7 +2,7 @@
 
 Image Cropper is a user-friendly Windows application that allows you to easily crop multiple images to a specified size from the same position. This tool is perfect for batch processing, ensuring consistency across all your images by applying the same crop area to every picture in a folder.
 
-![Image Cropper Overview](path/to/overview_image.png)
+![Image Cropper Overview](1.png)
 
 ## Key Features
 
@@ -29,7 +29,11 @@ Image Cropper is a user-friendly Windows application that allows you to easily c
 4. Click on the displayed image to set the center point of your crop area. This point will be used for all images.
 5. Click the "Crop Images" button to process all images in the selected folder.
 
-![Usage Steps](path/to/usage_steps.png)
+![Usage Steps 1](2.png)
+![Usage Steps 2](3.png)
+![Usage Steps 3](4.png)
+![Usage Steps 4](5.png)
+![Usage Steps_5](6.png)
 
 **Important**: The crop area you define will be applied to all images in the folder. Make sure your images have similar layouts for best results.
 
