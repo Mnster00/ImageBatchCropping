@@ -4,7 +4,8 @@ Batch Image Cropper is a user-friendly Windows application that allows you to ea
 
 Image Cropper 是一款用户友好的 Windows 应用程序，可让你轻松地从同一位置裁剪多张图片到指定大小。该工具非常适合批量处理，通过对文件夹中的每张图片应用相同的裁剪区域，确保所有图片的一致性。
 
-![Image Cropper Overview](https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png)
+
+<img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png" alt="Image Cropper Overview" width="600"/>
 
 ## Key Features
 
@@ -31,11 +32,13 @@ Image Cropper 是一款用户友好的 Windows 应用程序，可让你轻松地
 4. Click on the displayed image to set the center point of your crop area. This point will be used for all images.
 5. Click the "Crop Images" button to process all images in the selected folder.
 
-![Usage Steps 1](https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png)
-![Usage Steps 2](https://github.com/Mnster00/ImageBatchCropping/blob/main/3.png)
-![Usage Steps 3](https://github.com/Mnster00/ImageBatchCropping/blob/main/4.png)
-![Usage Steps 4](https://github.com/Mnster00/ImageBatchCropping/blob/main/5.png)
-![Usage Steps_5](https://github.com/Mnster00/ImageBatchCropping/blob/main/6.png)
+
+<img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png" width="400"/>
+<img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/3.png" width="400"/>
+<img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/4.png" width="400"/>
+<img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/5.png" width="400"/>
+<img src="https://github.com/Mnster00/ImageBatchCropping/blob/main/6.png" width="400"/>
+
 
 **Important**: The crop area you define will be applied to all images in the folder. Make sure your images have similar layouts for best results.
 
