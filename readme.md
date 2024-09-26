@@ -15,13 +15,11 @@ Image Cropper is a user-friendly Windows application that allows you to easily c
 ## System Requirements
 
 - Windows 7 or later
-- No additional software required
 
 ## Installation
 
-1. Go to the [Releases page](https://github.com/yourusername/image-cropper/releases) of this repository.
-2. Download the latest `ImageCropper.zip` file.
-3. Extract the ZIP file to your preferred location on your computer.
+1. Go to the [Releases page](https://github.com/Mnster00/ImageBatchCropping/releases) of this repository.
+2. Download the `ImageCropper.zip` file.
 
 ## How to Use
 
@@ -34,13 +32,3 @@ Image Cropper is a user-friendly Windows application that allows you to easily c
 ![Usage Steps](path/to/usage_steps.png)
 
 Cropped images will be saved in a new folder named "cropped_images" within the original folder.
-
-## Troubleshooting
-
-- If the application doesn't start, ensure you've extracted all files from the ZIP archive.
-- If you can't select a folder, try running the application as an administrator.
-- Make sure you have write permissions in the folder where you're trying to save cropped images.
-
-## Support
-
-If you encounter any issues or have questions, please visit our [GitHub Issues page](https://github.com/yourusername/image-cropper/issues) for support.
