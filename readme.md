@@ -19,7 +19,7 @@ Image Cropper is a user-friendly Windows application that allows you to easily c
 ## Installation
 
 1. Go to the [Releases page](https://github.com/Mnster00/ImageBatchCropping/releases) of this repository.
-2. Download the latest `ImageCropper.zip` file.
+2. Download the latest `batchimgcrop_v1.zip` file.
 
 ## How to Use
 
